@@ -1,9 +1,6 @@
-  Hi, I’m Marikannan Perumal.
-  Passionate Data Science student. 
-  I,m From a rural village near Tuticorin.
-  I'm currently pursuing my UG degree in the field of data science specialized in Computer Science and Engineering. 
-  I’m interested in Data analytics || Data Engineer || Software Developer.
-  I'm in the process of learning data science to expand my skills in analyzing and interpreting data.
+Hi, I’m Marikannan Perumal.
+I’m a passionate Data Science graduate from a rural village near Tuticorin, with a Bachelor's degree in Computer Science and Engineering specialized in Data Science. I have a strong interest in Data science.
+I enjoy exploring data to uncover insights and build impactful solutions. With a foundation in statistical analysis, programming, and machine learning, I'm continuously enhancing my skills to contribute effectively in real-world data-driven environments.
  
   
 
