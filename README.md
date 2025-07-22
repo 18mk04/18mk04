@@ -43,4 +43,4 @@
 
 ---
 
-> _“The best way to predict the future is to build it.”_
+> _“The expert in anything was once a beginner.”_
