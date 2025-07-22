@@ -31,7 +31,7 @@
 | 🚘 **Smart ADAS System** | Jetson Nano-based lane + object detection | Python, OpenCV, Flask, Arduino, Jetson Orin Nano |
 | 💡 **Insurance Cost Predictor** | Predicts health insurance charges using ML | Pandas, scikit-learn, Seaborn |
 
-👉 More on my [GitHub Repositories](https://github.com/marik7939)
+👉 More on my [GitHub Repositories](https://github.com/18mk04)
 
 ---
 
@@ -39,7 +39,7 @@
 
 - 📧 Email: [marik7939@gmail.com](mailto:marik7939@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marik1804/)
-- 💻 [GitHub](https://github.com/marik7939)
+- 💻 [GitHub](https://github.com/18mk04)
 
 ---
 
