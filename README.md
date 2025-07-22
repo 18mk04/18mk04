@@ -1,7 +1,8 @@
+<!--
 <p align="center">
   <img src="https://github.com/18mk04/18mk04/blob/main/banner.png" alt="Marikannan P Banner" width="800" height="400">
 </p>
-
+-->
 # 👋 Hi, I’m Marikannan Perumal
 
 🎓 Recent graduate in **Computer Science and Engineering (Data Science)** from Annamalai University, Tamil Nadu  
