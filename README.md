@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/18mk04/18mk04/blob/main/banner.png" alt="Marikannan P Banner" width="100%">
+  <img src="https://github.com/18mk04/18mk04/blob/main/banner.png" alt="Marikannan P Banner" width="800" height="200">
 </p>
 
 # 👋 Hi, I’m Marikannan Perumal
