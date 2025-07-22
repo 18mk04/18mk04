@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Marikannan P
+# 👋 Hi, I’m Marikannan Perumal
 
 🎓 Recent graduate in **Computer Science and Engineering (Data Science)** from Annamalai University, Tamil Nadu  
 🛠️ Passionate about **System Monitoring**, **Python Development**, and **Embedded Systems**  
