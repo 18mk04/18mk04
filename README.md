@@ -1,23 +1,23 @@
 # 👋 Hi, I’m Marikannan Perumal
 
 🎓 Recent graduate in **Computer Science and Engineering (Data Science)** from Annamalai University, Tamil Nadu  
-🛠️ Passionate about **System Monitoring**, **Python Development**, and **Embedded Systems**  
-🚀 Currently enhancing my skills in **Data Science**, **IoT**, and **DevOps**
+🛠️ Passionate about **Data Science**, **Python Development**, and **Embedded Systems**  
+🚀 Currently enhancing my skills in **Data Science**, **MLOps**, and **IoT**
 
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Python, C/C++, SQL, Embedded C
-- **Data Science Tools:** Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Seaborn
-- **Web/Automation:** Flask, Jupyter Notebook, HTML, JS
+- **Languages:** Python, R, SQL, Embedded C
+- **Data Science Tools:** Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Seaborn,spaCy
+- **Web:** Flask, HTML, JS
 - **Embedded & Edge Devices:** Arduino, Raspberry Pi, Jetson Orin Nano
-- **OS & Tools:** Linux, VS Code, Git, MS Excel, Google Colab
+- **OS & Tools:** Linux, VS Code, Git, MS Office, Google Colab, Microsoft Azure
 - **Networking:** Serial Communication, CAN Bus, Wi-Fi configuration
 
 ---
 
 ## 🌱 Current Focus
-- 🔍 Learning about Azure Cloud and DevOps tools
+- 🔍 Learning about Azure Cloud and MLOps tools
 - 🤖 Building real-time embedded + vision projects
 - 📊 Practicing ML/DL on real datasets
 
