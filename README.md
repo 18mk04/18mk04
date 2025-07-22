@@ -28,7 +28,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🔐 **Spam Email Classifier** | Classifies Gmail messages as spam/ham using ML | Python, scikit-learn, IMAP |
-| 🚘 **Smart ADAS System** | Jetson Nano-based lane + object detection | Python, OpenCV, Flask, Arduino |
+| 🚘 **Smart ADAS System** | Jetson Nano-based lane + object detection | Python, OpenCV, Flask, Arduino, Jetson Orin Nano |
 | 💡 **Insurance Cost Predictor** | Predicts health insurance charges using ML | Pandas, scikit-learn, Seaborn |
 
 👉 More on my [GitHub Repositories](https://github.com/marik7939)
