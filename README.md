@@ -5,13 +5,13 @@
 -->
 # 👋 Hi, I’m Marikannan Perumal
 
-🎓 Recent graduate in **Computer Science and Engineering (Data Science)** from Annamalai University, Tamil Nadu  
-🛠️ Passionate about **Data Science**, **Python Development**, and **Embedded Systems**  
-🚀 Currently enhancing my skills in **Data Science**, **MLOps**, and **IoT**
+ Recent graduate in **Computer Science and Engineering (Data Science)** from Annamalai University, Tamil Nadu  
+ Passionate about **Data Science**, **Python Development** 
+ Currently enhancing my skills in **Data Science**, **MLOps**, and **IoT**
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 - **Languages:** Python, R, SQL, Embedded C
 - **Data Science Tools:** Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Seaborn,spaCy
 - **Web:** Flask, HTML, JS
@@ -21,9 +21,8 @@
 
 ---
 
-## 🌱 Current Focus
+##  Current Focus
 - 🔍 Learning about Azure Cloud and MLOps tools
-- 🤖 Building real-time embedded + vision projects
 - 📊 Practicing ML/DL on real datasets
 
 ---
